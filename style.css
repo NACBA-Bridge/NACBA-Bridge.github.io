@@ -11,3 +11,6 @@ iframe {
     margin-left: 264px;
   }
 }
+.site-footer {
+  visibility: hidden;
+}
