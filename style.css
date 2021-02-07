@@ -2,3 +2,9 @@ iframe {
   height: 80vh;
   width: 100%;
 }
+.side-bar {
+  width: auto;
+}
+.main {
+  max-width: none;
+}
