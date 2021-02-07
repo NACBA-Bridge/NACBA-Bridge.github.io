@@ -2,9 +2,12 @@ iframe {
   height: 80vh;
   width: 100%;
 }
-.side-bar {
-  width: auto;
-}
-.main {
-  max-width: none;
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: 264px;
+  }
+  .main {
+    max-width: none;
+    margin-left: 264px;
+  }
 }
